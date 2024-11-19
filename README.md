@@ -1,6 +1,6 @@
 Welcome!
 
-To download Gerald, download the Pixel Pets.exe file.
+To download Gerald, download the PixelPets V1.zip file and run the .application file. Do not touch anything else.
 
 Future updates will be made.
 
